@@ -25,16 +25,11 @@ patch:
       ascii_mode: true
     com.apple.Terminal:
       ascii_mode: true
-      no_inline: true
     com.googlecode.iterm2:
       ascii_mode: true
-      no_inline: true
     #
     com.runningwithcrayons.Alfred-3:
       ascii_mode: true
-    com.apple.Terminal:
-      ascii_mode: true
-      no_inline: true
     org.vim.MacVim:
       ascii_mode: true
       no_inline: true
